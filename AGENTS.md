@@ -13,5 +13,5 @@
 
 ## Design
 * Simple and intuitive user interface
-* Colors: white, dark green, light green, and black
+* Colors: white, dark pink, light pink, and black
 * Responsive design
